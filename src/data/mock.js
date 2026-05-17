@@ -98,7 +98,7 @@ export const diningMenu = [
     type: 'food',
     price: 180,
     description: 'Perfectly seared 8oz cut of authentic Kobe beef, served with truffle mash and seasonal asparagus.',
-    image: 'https://images.unsplash.com/photo-1544025162-d76f60b52c3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1648977555545-4dd006e30d3f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 'f2',
@@ -106,7 +106,7 @@ export const diningMenu = [
     type: 'food',
     price: 65,
     description: 'Creamy Arborio rice with wild mushrooms, 24-month aged Parmigiano, and fresh shaved black truffles.',
-    image: 'https://images.unsplash.com/photo-1476124369491-e7addf5db378?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1602563603373-5d806ff8380c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 'f3',
@@ -114,7 +114,7 @@ export const diningMenu = [
     type: 'food',
     price: 250,
     description: '30g of premium Beluga caviar accompanied by traditional blinis, crème fraîche, and quail eggs.',
-    image: 'https://images.unsplash.com/photo-1626079979724-405cb6064ce8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1677758779328-470e2dcfaa00?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 'f4',
@@ -130,7 +130,7 @@ export const diningMenu = [
     type: 'food',
     price: 45,
     description: 'Rich and velvety soup with generous chunks of Maine lobster tail, finished with cognac cream.',
-    image: 'https://images.unsplash.com/photo-1548943487-b0877993afbb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
+    image: 'https://images.unsplash.com/photo-1464093515883-ec948246accb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
   },
   {
     id: 'f6',

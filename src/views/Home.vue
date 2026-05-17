@@ -175,25 +175,25 @@ const addToCart = (product) => {
           <!-- Event 1 -->
           <div class="bg-white/5 border border-white/10 p-8 glass-card">
             <p class="text-luxuryGold text-sm font-semibold uppercase tracking-wider mb-2">Summer 2026</p>
-            <h4 class="text-xl font-serif mb-4">Adora Anniversary Gala</h4>
-            <p class="text-sm text-gray-400 font-light">Join us in celebrating another year of excellence. Formal attire required.</p>
-            <span class="inline-block mt-4 text-xs font-semibold px-2 py-1 border border-white/20 uppercase">Coming Soon</span>
+            <h4 class="text-xl font-serif mb-4 text-charcoal">Adora Anniversary Gala</h4>
+            <p class="text-sm text-gray-500 font-light">Join us in celebrating another year of excellence. Formal attire required.</p>
+            <span class="inline-block mt-4 text-xs font-semibold px-2 py-1 border border-white/20 uppercase text-charcoal">Coming Soon</span>
           </div>
           
           <!-- Event 2 -->
           <div class="bg-white/5 border border-white/10 p-8 glass-card">
             <p class="text-luxuryGold text-sm font-semibold uppercase tracking-wider mb-2">Fall 2026</p>
-            <h4 class="text-xl font-serif mb-4">Masterclass Wine Tasting</h4>
-            <p class="text-sm text-gray-400 font-light">An exclusive evening guiding you through Mediterranean vineyards' best creations.</p>
-            <span class="inline-block mt-4 text-xs font-semibold px-2 py-1 border border-white/20 uppercase">Coming Soon</span>
+            <h4 class="text-xl font-serif mb-4 text-charcoal">Masterclass Wine Tasting</h4>
+            <p class="text-sm text-gray-500 font-light">An exclusive evening guiding you through Mediterranean vineyards' best creations.</p>
+            <span class="inline-block mt-4 text-xs font-semibold px-2 py-1 border border-white/20 uppercase text-charcoal">Coming Soon</span>
           </div>
 
           <!-- Event 3 -->
           <div class="bg-white/5 border border-white/10 p-8 glass-card md:col-span-2 lg:col-span-1">
             <p class="text-luxuryGold text-sm font-semibold uppercase tracking-wider mb-2">Winter 2026</p>
-            <h4 class="text-xl font-serif mb-4">Jazz & Dine Under Stars</h4>
-            <p class="text-sm text-gray-400 font-light">Live acoustic jazz on our newly renovated rooftop lounge.</p>
-            <span class="inline-block mt-4 text-xs font-semibold px-2 py-1 border border-white/20 uppercase">Coming Soon</span>
+            <h4 class="text-xl font-serif mb-4 text-charcoal">Jazz & Dine Under Stars</h4>
+            <p class="text-sm text-gray-500 font-light">Live acoustic jazz on our newly renovated rooftop lounge.</p>
+            <span class="inline-block mt-4 text-xs font-semibold px-2 py-1 border border-white/20 uppercase text-charcoal">Coming Soon</span>
           </div>
         </div>
       </div>
